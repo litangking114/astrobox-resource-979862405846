@@ -1,0 +1,41 @@
+{
+  "item": {
+    "id": "979862405846",
+    "restype": "watchface",
+    "name": "RasterDial佩洛伊斯光栅表盘",
+    "description": "RasterDial 是一款跟随手腕转动的动态光栅表盘\n倾斜手环，画面沿一条柔和的渐变边界在两张《绝区零》角色图之间连续流动，转多少走多少，停手即停；也可以切换为类 OriginOS 的触发式全屏交叉淡化——越过角度阈值才淡入淡出一次，摆定即停，不会连环翻页\n表盘内点击即可在「渐变线 / OriginOS」两种样式间切换，选择自动记忆\n动画以 30 Hz 运行，配合 One Euro 滤波与软死区消除手抖；画面为预渲染帧查表贴图，流畅不卡顿。支持小米手环 10 Pro / 9 Pro / Band 11\n特别感谢@suona0807 帮助测试MiBand11\n@YuaN 帮助测试MiBand9Pro",
+    "preview": [
+      "media/preview_1.png",
+      "media/preview_2.png",
+      "media/preview_3.png",
+      "media/preview_copyright.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/RasterDial_1536x1024_300PPI_Q95.jpg",
+    "author": [
+      {
+        "name": "rb7swf6kzn",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.1",
+      "file_name": "downloads/RasterDial_Pyrois_Mi10Pro.face",
+      "versionCode": 65537
+    },
+    "xmb9p": {
+      "version": "1.0.1",
+      "file_name": "downloads/RasterDial_Pyrois_Mi9Pro.face",
+      "versionCode": 65537
+    },
+    "xmb11": {
+      "version": "1.0.1",
+      "file_name": "downloads/RasterDial_Pyrois_Mi11.face",
+      "versionCode": 65537
+    }
+  },
+  "ext": {}
+}
